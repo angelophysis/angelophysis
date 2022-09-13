@@ -1,4 +1,4 @@
-<h2>🔭 Olá! eu sou o Ângelo Santana, sou estudante de Engenharia de Software na Uninter e estou começando minha jornada com Desenvolvimento Web como aluno na Awari.👋</h2> 
+<h2>🔭 Olá! eu sou o Ângelo Santana, sou estudante de Ciência de Dados e estou começando minha jornada como cientista de dados.👋</h2> 
  <div>
   <h1></h1>
  </div>
